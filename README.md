@@ -1,6 +1,6 @@
 <h1 align='center'>如何给你的大学官网整一个⌈奇怪⌋的域名</h1>
 
-> 本文转自个人博客[如何给你的大学官网整一个⌈奇怪⌋的域名](https://updating.top/%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%AE%98%E7%BD%91%E6%95%B4%E4%B8%80%E4%B8%AA%E3%80%8C%E5%A5%87%E6%80%AA%E3%80%8D%E7%9A%84%E5%9F%9F%E5%90%8D/)
+> 本文转自个人博客[如何给你的大学官网整一个⌈奇怪⌋的域名](https://www.updating.top/Special-Domain-for-Your-University/)
 
 ## 购买域名
 
